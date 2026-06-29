@@ -1,3 +1,4 @@
+
 # FFT-Style Ocean – Godot 4
 
 A realistic Gerstner Wave ocean simulation for Godot 4.3+.
@@ -102,3 +103,13 @@ Suggested roles:
 two types of files
 the not merged one which has all the deep water material calculations and the other one which can be used on ponds and rivers because the
 material is being calculated with alpha or transparency or basically the not merged one doesnt have to do with alpha and stuff and the merged has something to do with alpha
+
+
+Not merged
+<img width="1280" height="720" alt="FFT Ocean (DEBUG) 6_29_2026 10_37_14 PM" src="https://github.com/user-attachments/assets/ef5ef3d0-ed5c-44f9-a0a3-cb40abc1c366" />
+<img width="1920" height="1009" alt="(_) ocean_scene tscn - FFT Ocean - Godot Engine 6_29_2026 10_36_53 PM" src="https://github.com/user-attachments/assets/862c9e12-933f-4a8e-b86e-2d705310963b" />
+
+and merged
+<img width="1920" height="1009" alt="(_) ocean_scene tscn - NEON VAULT - Godot Engine 6_29_2026 10_32_52 PM" src="https://github.com/user-attachments/assets/995c81eb-fced-4de6-865d-10aac6ff896b" />
+<img width="1920" height="1080" alt="NEON VAULT (DEBUG) 6_29_2026 10_31_06 PM" src="https://github.com/user-attachments/assets/1f9409fc-090a-451f-938e-fd0c0ca32571" />
+
